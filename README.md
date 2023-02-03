@@ -1,5 +1,7 @@
 # Figma---Bird-project
-From My course Human computer interaction
+From My course Human computer interaction. 
+
+Very basic designs made in Figma during design courses at Stockholm University. 
 
 
 Recyclefy - Finding nearest recycling station. My first design in figma.
